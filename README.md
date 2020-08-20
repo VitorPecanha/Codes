@@ -1,6 +1,6 @@
 # Codes
 #pt
-Alguns códigos feitos em trabalhos.
+Alguns códigos feitos em trabalhos da faculdade.
 A ideia é juntar alguns códigos feitos na faculdade, para documentar minha evolução no curso.
 
 
